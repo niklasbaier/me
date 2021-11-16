@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Quantitative Finance &#8211; Niklas Baier</title>
+	<atom:link href="https://niklasbaier.github.io/me/category/quant/feed/" rel="self" type="application/rss+xml" />
+	<link>https://niklasbaier.github.io/me/</link>
+	<description>My personal website.</description>
+	<lastBuildDate>Tue, 16 Nov 2021 14:41:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Full Quant Tech Stack</title>
+		<link>https://niklasbaier.github.io/me/full-quant-tech-stack/</link>
+					<comments>https://niklasbaier.github.io/me/full-quant-tech-stack/#respond</comments>
+		
+		<dc:creator><![CDATA[Niklas Baier]]></dc:creator>
+		<pubDate>Tue, 16 Nov 2021 11:28:08 +0000</pubDate>
+				<category><![CDATA[Algorithmic Trading]]></category>
+		<category><![CDATA[Quantitative Finance]]></category>
+		<guid isPermaLink="false">https://niklasbaier.github.io/me/?p=43</guid>
+
+					<description><![CDATA[So, I&#8217;ve wanted to write a blog post like this for quite some time now. As someone who just recently (re-)discovered his love for coding, getting into the universe of existing programs, frameworks, libraries and best practices can feel overwhelming at times. However, after some weeks of experimenting with my setup, I feel confident enough &#8230;<p class="read-more"> <a class="" href="https://niklasbaier.github.io/me/full-quant-tech-stack/"> <span class="screen-reader-text">Full Quant Tech Stack</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="43" class="elementor elementor-43" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2e1b736 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e1b736" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dd9c330" data-id="dd9c330" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c725332 elementor-widget elementor-widget-image" data-id="c725332" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://niklasbaier.github.io/me/wp-content/uploads/elementor/thumbs/Stocks-pg5ag129dwe86v2p9wplmyjmm3n4wkv4zaqaabgb80.jpeg" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e2f78e2 elementor-widget elementor-widget-text-editor" data-id="e2f78e2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>So, I&#8217;ve wanted to write a blog post like this for quite some time now. As someone who just recently (re-)discovered his love for coding, getting into the universe of existing programs, frameworks, libraries and best practices can feel overwhelming at times.</p><p>However, after some weeks of experimenting with my setup, I feel confident enough to write this small excerpt about my current tech stack. I will update this overview article from time to time to include my latest insights / tools, so feel free to revisit anytime!</p><p> </p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2f9ff72 elementor-widget elementor-widget-heading" data-id="2f9ff72" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Wait, Full Quant Tech Stack?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d2fb16b elementor-widget elementor-widget-text-editor" data-id="d2fb16b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-size: 15px; font-style: normal; font-weight: 400;"><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);">So, what do I mean by </span><span style="font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);"><i>Full Quant Tech Stack</i></span><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);">? Being a coined term or not, full stack refers to the full spectrum of a software system &#8211; from front to back, i.e. from a frontend such as a graphical interface / website, to the programming logic in between, all the way to the backend (database). Since I want my quant coding adventures to be as independent of any one-size-fits-all solution as well as learn how to develop a full application from scratch, I have scouted the internet and most well-known quant exchange websites to come up with a set of tools for my coding endeavours.</span></p><p style="font-size: 15px; font-style: normal; font-weight: 400;">Building up a full tech stack for quantitative / algorithmic trading encompasses the following aspects:</p><ul style="font-size: 15px; font-style: normal; font-weight: 400;"><li style="font-size: 15px;"><span style="font-style: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);"><span style="font-weight: bold;">Database &amp; Market Data</span></span></li><li style="font-size: 15px;"><span style="font-style: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);"><span style="font-weight: bold;">Algorithm Creation &amp; Model Training</span></span></li><li style="font-size: 15px;"><span style="font-style: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);"><span style="font-weight: bold;">Backtesting &amp; </span></span><span style="font-weight: bold; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-style: inherit;">Performance Evaluation</span></li><li style="font-size: 15px;"><span style="font-style: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);"><span style="font-weight: bold;">Paper Trading</span></span></li><li style="font-size: 15px;"><span style="font-style: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);"><span style="font-weight: bold;">Live Trading</span></span></li></ul><p style="font-size: 15px; font-style: normal; font-weight: 400;"><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);">The idea of this article is to give a brief overview of each of these aspects and which tools / libraries I am choosing going forward. Upcoming articles will then go into much more detail on how to build up / work with these tools.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b73774e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b73774e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-57ff6f0" data-id="57ff6f0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2f99319 elementor-widget elementor-widget-heading" data-id="2f99319" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Database &amp; Market Data</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ceb2316 elementor-widget elementor-widget-text-editor" data-id="ceb2316" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Arguably the most boring part of a tech stack, but nonetheless indispensable &#8211; without available, clean and high quality data, there is no algorithmic trading.</p><p>For my <i>Securities Master Database</i> (SMD), I decided to go with a simple MySQL database that runs locally on my dev setup. I have plans on hosting this SMD on an always-on Raspberry Pi sometime in the future to have remote access without cluttering my disc.</p><p>Getting said high quality market data still poses a challenge to this date. Due to my student status, I have access to <a href="https://www.bloomberg.com/europe">Bloomberg</a> and <a href="https://www.thomsonreuters.com/en.html">Thomson Reuters</a> at my university, but since my golden student days are coming closer to their end, I don&#8217;t want to be dependent of these paid services in the future. Another popular source of data is <a href="https://finance.yahoo.com/">Yahoo Finance</a>, which I already have some experience with &#8211; good and bad. Other data vendors such as <a href="https://alpaca.markets/">Alpaca</a> provide relatively easy to access data via their API, but mostly only for US equities.</p><p>This leads me to the main problem: deciding on a stock universe to include in the SMD. As already mentioned, data providers such as Alpaca offer very high quality ticker data for thousands of stocks and ETFs, but only from the US. Yahoo Finance offers data for nearly every stock, but requires a very tedious and often times somewhat manual setup.</p><p>I will go into more detail about these issues in the dedicated blog post about the SMD, but for now, I will stick with the Alpaca API for an easy start.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8fdbeb6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8fdbeb6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e94acaa" data-id="e94acaa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a302f4c elementor-widget elementor-widget-heading" data-id="a302f4c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Algorithm Creation &amp; Model Training</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2daa549 elementor-widget elementor-widget-text-editor" data-id="2daa549" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This is where it gets exciting! The algorithm or model is the brain of the trading engine and is responsible for issuing buy/sell signals on some predetermined criteria (algorithm) or on its own (artificial intelligence).</p><p>There is a wide variety of established trading strategies that can easily be translated into an algorithmic program. Websites such as <a href="https://quantocracy.com/">Quantocracy</a>, <a href="https://quantpedia.com/">Quantpedia</a>, <a href="https://quantnet.com/forum/home/">QuantNet</a>, <a href="https://www.quantstart.com/">QuantStart</a>, <a href="https://quantivity.wordpress.com/">Quantivity</a>, and <a href="https://quant.stackexchange.com/">Quant Stackexchange</a> provide more than enough material and (pseudo-)code to get started. Though not necessarily specialized on the quantitative finance / algorithmic trading domain, <a href="https://paperswithcode.com/">Papers with Code</a> can also be a valuable resource.</p><p>I am planning on first translating some simple trading strategies such as the <a href="https://www.investopedia.com/terms/g/goldencross.asp#:~:text=A%20golden%20cross%20is%20a%20technical%20chart%20pattern%20indicating%20the,indicating%20a%20bearish%20price%20movement.">Golden Cross</a> or <a href="https://www.investopedia.com/terms/r/rsi.asp">RSI</a> and then gradually moving on to more complex strategies as well as developing my own. Once I&#8217;m comfortable with these &#8216;hardcoded&#8217; strategies, I want to explore the usability of machine / deep / reinforcement learning models for automatic strategy generation.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-424f882 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="424f882" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7eb1534" data-id="7eb1534" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a4adcb3 elementor-widget elementor-widget-heading" data-id="a4adcb3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Backtesting &amp; Performance Evaluation</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4de9892 elementor-widget elementor-widget-text-editor" data-id="4de9892" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This part of the quant stack is all about testing the actual performance of a strategy and comparing its key metrics such as annual returns, <a href="https://www.investopedia.com/terms/s/sharperatio.asp">Sharpe Ratio</a> and <a href="https://www.investopedia.com/terms/v/volatility.asp">volatility</a> to those of a given benchmark (most often an index such as the S&amp;P500).</p><p>The python library <a href="https://www.backtrader.com/">Backtrader</a> is well-suited for this task and can generate beautiful charts as the one below about a strategy&#8217;s execution &amp; portfolio development. Plus, Backtrader integrates nicely with Alpaca.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9303cc3 elementor-widget elementor-widget-image" data-id="9303cc3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img width="1024" height="574" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/Figure_0-1024x574.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/Figure_0-1024x574.png 1024w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/Figure_0-300x168.png 300w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/Figure_0-768x431.png 768w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/Figure_0-1536x861.png 1536w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/Figure_0-2048x1148.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />											<figcaption class="widget-image-caption wp-caption-text">Backtesting the Golden Cross strategy on WMT using Backtrader.</figcaption>
+										</figure>
+									</div>
+				</div>
+				<div class="elementor-element elementor-element-89ca39d elementor-widget elementor-widget-text-editor" data-id="89ca39d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>For advanced portfolio analytics, I will be using <a href="https://github.com/ranaroussi/quantstats">QuantStats</a>, a package by the legendary <a href="https://github.com/ranaroussi">Ran Aroussi</a> who has also written the yfinance library.</p><p> </p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c651e90 elementor-widget elementor-widget-image" data-id="c651e90" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img width="228" height="1024" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/report-228x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/report-228x1024.jpg 228w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/report-67x300.jpg 67w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/report-768x3448.jpg 768w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/report-342x1536.jpg 342w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/report-456x2048.jpg 456w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/report-scaled.jpg 570w" sizes="(max-width: 228px) 100vw, 228px" />											<figcaption class="widget-image-caption wp-caption-text">Tear Sheet report using QuantStats.</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3d9ad59 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3d9ad59" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d9cc66" data-id="0d9cc66" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0455466 elementor-widget elementor-widget-heading" data-id="0455466" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Paper Trading</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-17bab83 elementor-widget elementor-widget-text-editor" data-id="17bab83" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>After a strategy has been thoroughly tested and refined on historical data, the next step involves connecting the trading engine to a paper trading / virtual portfolio API to test its performance in the real world.</p><p>Probably the easiest solution here is again the Alpaca API which allows for free-of-charge algorithmic papertrading.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-10a71e5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="10a71e5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d8102e" data-id="4d8102e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-433ea63 elementor-widget elementor-widget-heading" data-id="433ea63" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Live Trading</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c3bb3d9 elementor-widget elementor-widget-text-editor" data-id="c3bb3d9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This is the final step and the ultimate goal of this whole endeavour &#8211; getting the trading bot live and letting it trade with real money for (hopefully) positive returns.</p><p>Unfortunately, Alpaca which has been such an easy and comfortable use for the previous steps, does not let non-US citizens issue real transactions via their API. Thus, when the time comes and my first promising trading bot can go live, I will have to find another broker (maybe <a href="https://www.interactivebrokers.com/en/home.php">Interactive Brokers</a>) that works for my purposes. But I have the feeling that this issue still lies far in the future and I will have gathered much more experience and knowledge until then!</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c634803 elementor-widget elementor-widget-heading" data-id="c634803" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Ready, Set, Code!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cbc0085 elementor-widget elementor-widget-text-editor" data-id="cbc0085" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>With these tools set in stone (at least for now), I will begin my Quant Finance / Algotrading coding journey! I will do my best to learn as much as I can as well as documenting my successes, failures and learnings. I am looking forward to you joining me in this exciting adventure!</p><p> </p><p>Thank you for reading <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>Cheers, Niklas</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e333a90 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e333a90" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e369229" data-id="e369229" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b98ecc5 elementor-widget elementor-widget-heading" data-id="b98ecc5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Further Reading</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-515420a elementor-widget elementor-widget-text-editor" data-id="515420a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul><li><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var(--ast-global-color-5);"><a href="https://alpaca.markets/learn/algo-trading-landscape/">https://alpaca.markets/learn/algo-trading-landscape/</a></span></li></ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://niklasbaier.github.io/me/full-quant-tech-stack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
