@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hardware &#8211; Niklas Baier</title>
+	<atom:link href="https://niklasbaier.github.io/me/category/hardware/feed/" rel="self" type="application/rss+xml" />
+	<link>https://niklasbaier.github.io/me/</link>
+	<description>My personal website.</description>
+	<lastBuildDate>Wed, 20 Apr 2022 11:33:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>My first custom Mechanical Keyboard</title>
+		<link>https://niklasbaier.github.io/me/my-first-custom-mechanical-keyboard/</link>
+					<comments>https://niklasbaier.github.io/me/my-first-custom-mechanical-keyboard/#respond</comments>
+		
+		<dc:creator><![CDATA[Niklas Baier]]></dc:creator>
+		<pubDate>Sun, 09 Jan 2022 09:05:00 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://niklasbaier.github.io/me/?p=219</guid>
+
+					<description><![CDATA[My first custom Mechanical Keyboard About a year ago during one of my YouTube binges I got mesmerized by the looks and thocks of custom built keyboards and before I knew it, I got sucked deep down the mechanical keyboard rabbithole. After consuming an embarassing amount of unboxings, reviews and posts on sites such as &#8230;<p class="read-more"> <a class="" href="https://niklasbaier.github.io/me/my-first-custom-mechanical-keyboard/"> <span class="screen-reader-text">My first custom Mechanical Keyboard</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="219" class="elementor elementor-219" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-bf6cd25 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bf6cd25" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b25a71b" data-id="b25a71b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3b22d7e elementor-widget elementor-widget-heading" data-id="3b22d7e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xl">My first custom Mechanical Keyboard</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5babf1b elementor-widget elementor-widget-image" data-id="5babf1b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://niklasbaier.github.io/me/wp-content/uploads/elementor/thumbs/keys-scaled-ph61wcdvcuyrwqbl9a2ibh0pxbxfr9fsxzpz42k440.jpg" title="keys" alt="keys" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-01ec501 elementor-widget elementor-widget-text-editor" data-id="01ec501" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>About a year ago during one of my YouTube binges I got mesmerized by the looks and thocks of custom built keyboards and before I knew it, I got sucked deep down the mechanical keyboard rabbithole. After consuming an embarassing amount of unboxings, reviews and posts on sites such as <a href="https://www.reddit.com/r/MechanicalKeyboards/">r/MechanicalKeyboards</a>, I finally decided to build my very own, personalized keyboard (or <i>keeb</i>, as the cool kids say). I tried to legitimate the hefty price tag attached to such an endeavour by arguing that a keyboard is THE human-machine interface, the one thing that lets me interact with my computer, and hence is worth the expense, but deep-down I knew that these were just excuses for yet another enthusiast hobby to pour my money into.</p><p>Anyways, this post will go through the steps I took to get my keyboard from looking like this (before) to this (after):</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-07a3d37 elementor-widget elementor-widget-bdt-image-compare" data-id="07a3d37" data-element_type="widget" data-widget_type="bdt-image-compare.default">
+				<div class="elementor-widget-container">
+					<div class="bdt-image-compare bdt-position-relative">
+			<div id="image-compare-07a3d37" class="image-compare bdt-image-compare-overlay" data-settings="{&quot;id&quot;:&quot;image-compare-07a3d37&quot;,&quot;default_offset_pct&quot;:70,&quot;before_label&quot;:&quot;Before&quot;,&quot;after_label&quot;:&quot;After&quot;,&quot;no_overlay&quot;:true,&quot;on_hover&quot;:true,&quot;smoothing&quot;:true,&quot;smoothing_amount&quot;:400,&quot;bar_color&quot;:&quot;#fff&quot;}">
+				<img width="2560" height="1920" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210116_151926711.PORTRAIT-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210116_151926711.PORTRAIT-scaled.jpg 2560w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210116_151926711.PORTRAIT-300x225.jpg 300w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210116_151926711.PORTRAIT-1024x768.jpg 1024w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210116_151926711.PORTRAIT-768x576.jpg 768w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210116_151926711.PORTRAIT-1536x1152.jpg 1536w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210116_151926711.PORTRAIT-2048x1536.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />				<img width="2560" height="1920" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_1200414973-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_1200414973-scaled.jpg 2560w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_1200414973-300x225.jpg 300w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_1200414973-1024x768.jpg 1024w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_1200414973-768x576.jpg 768w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_1200414973-1536x1152.jpg 1536w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_1200414973-2048x1536.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />			</div>
+		</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4a63fc3 elementor-widget elementor-widget-text-editor" data-id="4a63fc3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-size: 15px; font-style: normal; font-weight: 400;">If you&#8217;re planning on building your own mechanical keyboard, this is what you will need:</p>
+<ul style="font-size: 15px; font-style: normal; font-weight: 400;">
+<li style="font-size: 15px;">A keyboard (obviously)</li>
+<li style="font-size: 15px;">Keycaps</li>
+<li style="font-size: 15px;">A lubing station as well as lube and dielectric grease</li>
+<li style="font-size: 15px;">Keycap and switch removers, a switch opener, a stem holder and a brush</li>
+<li style="font-size: 15px;">Some padding foam and medical tape</li>
+</ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-af866a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="af866a1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7812713" data-id="7812713" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e79bc06 elementor-widget elementor-widget-heading" data-id="e79bc06" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">1. The Keyboard</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5ac3622 elementor-widget elementor-widget-image" data-id="5ac3622" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img src="https://m.media-amazon.com/images/I/51n-D6MwQ1L._AC_SL1000_.jpg" title="" alt="" />											<figcaption class="widget-image-caption wp-caption-text">The Epomaker SK61S Mechanical Keyboard is a great and beginner-friendly 60% keyboard.</figcaption>
+										</figure>
+									</div>
+				</div>
+				<div class="elementor-element elementor-element-421e21b elementor-widget elementor-widget-text-editor" data-id="421e21b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Acting on my best friend&#8217;s recommendation, I purchased the high value-to-price <a href="https://www.amazon.de/gp/product/B086DJ8VS9/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;th=1">Epomaker SK61S</a> off Amazon. It comes with hot-swappable, <a href="https://en.gateron.cn/">linear red Gateron</a> switches as well as&nbsp; Bluetooth and RGB lighting. I got it together with <a style="font-style: inherit; font-weight: inherit; font-family: var( --e-global-typography-text-font-family ), Sans-serif;" href="https://www.amazon.de/dp/B07ZBVTWHP?ref_=k4w_embed_dp_err&amp;tag=kpembed-20">pudding keycaps</a>&nbsp;to make full use of its lighting effects in the dark.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-51d06fc elementor-widget elementor-widget-image" data-id="51d06fc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1024" height="768" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210123_223955253-1024x768.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210123_223955253-1024x768.jpg 1024w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210123_223955253-300x225.jpg 300w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210123_223955253-768x576.jpg 768w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210123_223955253-1536x1152.jpg 1536w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210123_223955253-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-1936315 elementor-widget elementor-widget-text-editor" data-id="1936315" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>I really liked the look but the keys sounded very clicky and hollow which is why I used it only during gaming sessions and then quickly reverted back to my quiet <a href="https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.html">Logitech MX Keys</a>&nbsp;for other tasks. Switching keyboards all the time got exhausting after a while and I wanted to fully commit to the mechanical keyboard lifestyle (if there is something like that).</p><p>So, I decided to get my hands dirty and proceeded as follows.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a560091 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a560091" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28ebd98" data-id="28ebd98" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-22c9f5b elementor-widget elementor-widget-heading" data-id="22c9f5b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">2. Disassembly</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d5e60ab elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="d5e60ab" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210425_154349893-1024x768.jpg" alt="Removing keycaps ..." /><figcaption class="elementor-image-carousel-caption">Removing keycaps ...</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210425_155904517-1024x768.jpg" alt="... switches ..." /><figcaption class="elementor-image-carousel-caption">... switches ...</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210425_160909277-1024x768.jpg" alt="... and add padding." /><figcaption class="elementor-image-carousel-caption">... and add padding.</figcaption></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ea5f2fa elementor-widget elementor-widget-text-editor" data-id="ea5f2fa" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>I first removed the keycaps (a&nbsp;<a style="background-color: #f5f5f5;" href="https://www.amazon.de/gp/product/B086JJNH6M/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&amp;psc=1">keycap puller</a>&nbsp;is recommended) and the switches (a switch puller was included with the keyboard). Then, I unscrewed the plate and the circuit board (PCB) and carefully padded the base with some&nbsp;<a style="background-color: #f5f5f5; font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem; font-style: inherit; font-weight: inherit;" href="https://www.amazon.de/dp/B07GTNH8FP?ref_=k4w_embed_dp_err&amp;tag=kpembed-20">padding foam</a><span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-style: inherit; font-weight: inherit;">&nbsp;to dampen the otherwise very hollow case. After that was done, I placed the PCB and the plate back onto the foam and screwed them back on tightly. Depending on the thickness (hehe) of the foam, you might have to excert some force to get everything back together but the struggle is really worth it! With this small modification alone, the keyboard already felt weightier and less hollow. As it is always the case with disassembling and reassembling things, one tiny screw was magically left over at the end.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-57dc601 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57dc601" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-30f885c" data-id="30f885c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e897b31 elementor-widget elementor-widget-heading" data-id="e897b31" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">3. Lubing &amp; Greasing</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d870480 elementor-widget elementor-widget-text-editor" data-id="d870480" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>After the case mod was done, I turned my attention to the real work &#8211; lubing the switches and greasing the stabilizers (stabs).</p>
+<p>I used the&nbsp;<a style="background-color: #f5f5f5;" href="https://www.amazon.de/gp/product/B08MQHCJ4C/ref=ppx_yo_dt_b_asin_title_o09_s02?ie=UTF8&amp;psc=1">switch opener</a>&nbsp;to carefully disassemble each switch into its separate parts &#8211; the stem, spring, upper and base housing. Each of these components (with the exception of the upper housing) needed to be lubed, leaving me with 3 * 61 = 183 tiny components in total to lube by hand. Since this process takes some time, I spread the work over several days, lubing around 10 to 15 switches per day. The&nbsp;<a style="font-style: inherit; font-weight: inherit; font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: #f5f5f5;" href="https://www.amazon.de/gp/product/B08PFD35ZP/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&amp;psc=1">lubing station</a><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">&nbsp;came in very handy to store the lubed components for later assembly and included a stem holder. I got some standard&nbsp;</span><a style="background-color: #f5f5f5; font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-style: inherit; font-weight: inherit;" href="https://www.amazon.de/gp/product/B086935BQD/ref=ppx_yo_dt_b_asin_title_o09_s03?ie=UTF8&amp;psc=1">brushes</a><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">&nbsp;and&nbsp;</span><a style="background-color: #f5f5f5; font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-style: inherit; font-weight: inherit;" href="https://www.amazon.de/gp/product/B0081JDE9Q/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&amp;psc=1">lube</a><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">&nbsp;off Amazon and carefully applied the lube to the sliders and center hole of the base housing, as well as the sliders, sides and center of the stems (this is why we need a stem holder). Make sure not to use too much lube or else your switches might get too mushy! The lube should be barely visible on the brushtip. For the springs, I placed the current batch within a ziplock bag, added a few drops of lube and then shook the bag a few times to coat each spring.&nbsp;</span><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">For the stabs, I stuck some </span><a style="font-style: inherit; font-weight: inherit; font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: #f5f5f5;" href="https://www.amazon.de/gp/product/B004R7A0DY/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&amp;psc=1">medical tape</a><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">&nbsp;to the plate and put on some </span><a style="font-style: inherit; font-weight: inherit; font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: #f5f5f5;" href="https://www.amazon.de/gp/product/B000AL2RI2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;psc=1">grease</a><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">&nbsp;to help with the dampening. As before, I lubed the inside and stem of the stabs. For the wires, I applied a lot, and by that I mean A LOT, of dialectric grease onto the outer edges before re-assembling everything back together.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5eb5077 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="5eb5077" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210425_165138828-1024x768.jpg" alt="Separating switch components ..." /><figcaption class="elementor-image-carousel-caption">Separating switch components ...</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210425_163720127-1024x768.jpg" alt="... and lubing them one by one." /><figcaption class="elementor-image-carousel-caption">... and lubing them one by one.</figcaption></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1d87849 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d87849" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1e8a2f1" data-id="1e8a2f1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-84a2690 elementor-widget elementor-widget-heading" data-id="84a2690" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">4. Putting it all back together</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8c70642 elementor-widget elementor-widget-text-editor" data-id="8c70642" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>With all of the above being done, I finally plugged the switches and stabs back into the plate. I recommend starting with the stabs since fiddling them back into their original spots requires some free space. I didn&#8217;t quite like the look of the pudding keycaps by day and so I got another set of affordable <a style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: 1rem; background-color: #f5f5f5;" href="https://www.amazon.de/gp/product/B0825P4KH6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;psc=1">keycaps</a><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;"> to match my favorite color scheme.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2681e9a elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="2681e9a" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210430_120825305.MP_-1024x768.jpg" alt="Looking good by day ..." /><figcaption class="elementor-image-carousel-caption">Looking good by day ...</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20210430_191538846.PORTRAIT-1024x768.jpg" alt="... and by night." /><figcaption class="elementor-image-carousel-caption">... and by night.</figcaption></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-843d83c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="843d83c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a54f73" data-id="1a54f73" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7432ab3 elementor-widget elementor-widget-heading" data-id="7432ab3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">5. Finishing Touches &amp; Sound Check</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0de1fd2 elementor-widget elementor-widget-text-editor" data-id="0de1fd2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>To top off my creation, I initially planned to get an artisan keycap for the ESC key, e.g. the <a href="https://www.bobkeyboard.com/collections/gengar">Gengar keycap from bobkeycaps</a> or the <a href="https://www.reddit.com/r/keycapdesigners/comments/l9uua0/caplavera_skeletor_cw/">Skeletor keycap from FixedPoint Keycaps</a>. But since these are generally hard to get (only available in limited group buys) and, together with VAT and shipping, come around the same cost as the keyboard itself, I settled with a less expensive solution and got yet <a style="font-style: inherit; font-weight: inherit; font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: #f5f5f5;" href="https://www.amazon.de/gp/product/B07WG86KDG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;psc=1">another set of keycaps</a><span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">. Finally, I got a <a href="https://www.amazon.de/gp/product/B07C7Y5Y14/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1">wristrest</a> (never want to go back to hands-hovering-in-the-air-and-wrist-cramp times) and a <a href="https://www.pcgamingrace.com/products/glorious-coil-cable-crimson-red">coiled aviator cable</a> from Glorious to complete the look.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-23938d7 elementor-widget elementor-widget-image" data-id="23938d7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img width="1024" height="576" src="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_110905658.PORTRAIT3-1024x576.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_110905658.PORTRAIT3-1024x576.jpg 1024w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_110905658.PORTRAIT3-300x169.jpg 300w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_110905658.PORTRAIT3-768x432.jpg 768w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_110905658.PORTRAIT3-1536x864.jpg 1536w, https://niklasbaier.github.io/me/wp-content/uploads/2021/11/PXL_20211125_110905658.PORTRAIT3-2048x1151.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />											<figcaption class="widget-image-caption wp-caption-text">The final result.</figcaption>
+										</figure>
+									</div>
+				</div>
+				<div class="elementor-element elementor-element-11efa00 elementor-widget elementor-widget-heading" data-id="11efa00" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-small">Before</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-892deea elementor-widget elementor-widget-audio" data-id="892deea" data-element_type="widget" data-widget_type="audio.default">
+				<div class="elementor-widget-container">
+						<div class="elementor-soundcloud-wrapper">
+				<iframe loading="lazy" width="1200" height="200" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1166541280&#038;show_artwork=false&#038;maxheight=1000&#038;maxwidth=1200&#038;secret_token=s-ewAzOnoh3l9&#038;auto_play=false&#038;buying=false&#038;liking=false&#038;download=false&#038;sharing=false&#038;show_comments=false&#038;show_playcount=false&#038;show_user=false&#038;color"></iframe>			</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-2378090 elementor-widget elementor-widget-heading" data-id="2378090" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-small">After</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-eaffa12 elementor-widget elementor-widget-audio" data-id="eaffa12" data-element_type="widget" data-widget_type="audio.default">
+				<div class="elementor-widget-container">
+						<div class="elementor-soundcloud-wrapper">
+				<iframe loading="lazy" width="1200" height="200" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1166538715&#038;show_artwork=false&#038;maxheight=1000&#038;maxwidth=1200&#038;secret_token=s-jhQLfvMSBi4&#038;auto_play=false&#038;buying=false&#038;liking=false&#038;download=false&#038;sharing=false&#038;show_comments=false&#038;show_playcount=false&#038;show_user=false&#038;color"></iframe>			</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-a5657aa elementor-widget elementor-widget-audio" data-id="a5657aa" data-element_type="widget" data-widget_type="audio.default">
+				<div class="elementor-widget-container">
+						<div class="elementor-soundcloud-wrapper">
+				<iframe loading="lazy" width="1200" height="200" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1166539657&#038;show_artwork=false&#038;maxheight=1000&#038;maxwidth=1200&#038;secret_token=s-FLy3xy3dxH5&#038;auto_play=false&#038;buying=false&#038;liking=false&#038;download=false&#038;sharing=false&#038;show_comments=false&#038;show_playcount=false&#038;show_user=false&#038;color"></iframe>			</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-773cb1d elementor-widget elementor-widget-text-editor" data-id="773cb1d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-size: 15px; font-style: normal; font-weight: 400;">I hope you&#8217;ll enjoy the sound improvement just as much as I do (although my girlfriend still complains that my keys are way too loud *sigh*).</p><p style="font-size: 15px; font-style: normal; font-weight: 400;"><span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Anyways, thank you for reading <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p><p style="font-size: 15px; font-style: normal; font-weight: 400;">Cheers, Niklas</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b423861 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b423861" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4214f2" data-id="f4214f2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c88a867 elementor-widget elementor-widget-heading" data-id="c88a867" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">6. References</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9e9c5d6 elementor-widget elementor-widget-text-editor" data-id="9e9c5d6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Without the following videos, I would have probably never tried to mod / lube my keyboard, so I want to give credit where credit is due:</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-df63613 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="df63613" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=eZZ4clLgMeU&amp;t=369s&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a5a4b70 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="a5a4b70" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=usNx1_d0HbQ&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://niklasbaier.github.io/me/my-first-custom-mechanical-keyboard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
